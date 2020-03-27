@@ -1,0 +1,6 @@
+echo "# Java-8" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Antoniox236/Java-8.git
+git push -u origin master
